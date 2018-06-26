@@ -1,16 +1,16 @@
 default = 10
 
-arushi = +2
+arushi = +2+1
 anmol = +2
 komal = +2
-aditya = +2
+aditya = +2+1
 nidhi = +2
-karthik = +1
-siddharth = 
+karthik = +1+1+1
+siddharth = +1
 deepak = 
 moumita = +2
-dhruv = -1
+dhruv = -1+1
 prachi = +1
-sahil = -1
-vaishnavi = -1
-megha = -1
+sahil = -1+1
+vaishnavi = -1+2
+megha = -1+2
