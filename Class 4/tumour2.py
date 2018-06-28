@@ -51,7 +51,9 @@ def main():
 	print("test_X shape :",test_x.shape)
 	print("test_y shape :",test_y.shape)
 	
-
-
+	trained_model = random_forest_classifier(train_x, train_y)
+	#print("Trained model :: ",trained_model)
+	predictions = trained_model.predict(test_x)
+	print(predictions)
 
 main()
